@@ -1,0 +1,387 @@
+{
+  "dataset_name": "OniQ Multi-Class Onion & Leaf Quality Dataset",
+  "total_dataset_images": 16300,
+  "processed_at": "2026-09-25T11:02:10.138974",
+  "category_distribution": {
+    "1. Leaves\\1. Healthy\\1. Single": 1010,
+    "1. Leaves\\1. Healthy\\2. Multiple": 1010,
+    "1. Leaves\\2. Unhealthy\\1. Single": 1010,
+    "1. Leaves\\2. Unhealthy\\2. Multiple": 1010,
+    "2. Bulb\\1. Healthy\\1. Red Onion\\1. Single": 3000,
+    "2. Bulb\\1. Healthy\\1. Red Onion\\2. Multiple": 1110,
+    "2. Bulb\\1. Healthy\\2. White Onion\\1. Single": 3000,
+    "2. Bulb\\1. Healthy\\2. White Onion\\2. Multiple": 1110,
+    "2. Bulb\\2. Unhealthy\\1. Red Onion\\1. Single": 1010,
+    "2. Bulb\\2. Unhealthy\\1. Red Onion\\2. Multiple": 1010,
+    "2. Bulb\\2. Unhealthy\\2. White Onion\\1. Single": 1010,
+    "2. Bulb\\2. Unhealthy\\2. White Onion\\2. Multiple": 1010
+  },
+  "sample_assessments": [
+    {
+      "assessment_id": "ONQ-2026-010",
+      "batch_id": "BATCH-DS-010",
+      "folder": "1. Leaves\\1. Healthy\\1. Single",
+      "filename": "Onion00001.jpg",
+      "quality_score": 91,
+      "grade": "GRADE A",
+      "healthy_pct": 88.0,
+      "rotten_pct": 1.8
+    },
+    {
+      "assessment_id": "ONQ-2026-011",
+      "batch_id": "BATCH-DS-011",
+      "folder": "1. Leaves\\1. Healthy\\1. Single",
+      "filename": "Onion00002.jpg",
+      "quality_score": 19,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 21.7,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-012",
+      "batch_id": "BATCH-DS-012",
+      "folder": "1. Leaves\\1. Healthy\\1. Single",
+      "filename": "Onion00003.jpg",
+      "quality_score": 92,
+      "grade": "GRADE A",
+      "healthy_pct": 87.8,
+      "rotten_pct": 0.8
+    },
+    {
+      "assessment_id": "ONQ-2026-013",
+      "batch_id": "BATCH-DS-013",
+      "folder": "1. Leaves\\1. Healthy\\2. Multiple",
+      "filename": "Onion01011.jpg",
+      "quality_score": 16,
+      "grade": "GRADE C",
+      "healthy_pct": 32.6,
+      "rotten_pct": 36.0
+    },
+    {
+      "assessment_id": "ONQ-2026-014",
+      "batch_id": "BATCH-DS-014",
+      "folder": "1. Leaves\\1. Healthy\\2. Multiple",
+      "filename": "Onion01012.jpg",
+      "quality_score": 91,
+      "grade": "GRADE A",
+      "healthy_pct": 88.3,
+      "rotten_pct": 1.7
+    },
+    {
+      "assessment_id": "ONQ-2026-015",
+      "batch_id": "BATCH-DS-015",
+      "folder": "1. Leaves\\1. Healthy\\2. Multiple",
+      "filename": "Onion01013.jpg",
+      "quality_score": 29,
+      "grade": "GRADE C",
+      "healthy_pct": 37.6,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-016",
+      "batch_id": "BATCH-DS-016",
+      "folder": "1. Leaves\\2. Unhealthy\\1. Single",
+      "filename": "Onion02021.jpg",
+      "quality_score": 0,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 15.8,
+      "rotten_pct": 56.0
+    },
+    {
+      "assessment_id": "ONQ-2026-017",
+      "batch_id": "BATCH-DS-017",
+      "folder": "1. Leaves\\2. Unhealthy\\1. Single",
+      "filename": "Onion02022.jpg",
+      "quality_score": 32,
+      "grade": "GRADE C",
+      "healthy_pct": 42.4,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-018",
+      "batch_id": "BATCH-DS-018",
+      "folder": "1. Leaves\\2. Unhealthy\\1. Single",
+      "filename": "Onion02023.jpg",
+      "quality_score": 21,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 24.3,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-019",
+      "batch_id": "BATCH-DS-019",
+      "folder": "1. Leaves\\2. Unhealthy\\2. Multiple",
+      "filename": "Onion03031.jpg",
+      "quality_score": 16,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 28.6,
+      "rotten_pct": 34.9
+    },
+    {
+      "assessment_id": "ONQ-2026-020",
+      "batch_id": "BATCH-DS-020",
+      "folder": "1. Leaves\\2. Unhealthy\\2. Multiple",
+      "filename": "Onion03032.jpg",
+      "quality_score": 15,
+      "grade": "GRADE C",
+      "healthy_pct": 31.6,
+      "rotten_pct": 36.6
+    },
+    {
+      "assessment_id": "ONQ-2026-021",
+      "batch_id": "BATCH-DS-021",
+      "folder": "1. Leaves\\2. Unhealthy\\2. Multiple",
+      "filename": "Onion03033.jpg",
+      "quality_score": 26,
+      "grade": "GRADE C",
+      "healthy_pct": 32.4,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-022",
+      "batch_id": "BATCH-DS-022",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\1. Single",
+      "filename": "Onion04041.jpg",
+      "quality_score": 94,
+      "grade": "GRADE A",
+      "healthy_pct": 90.5,
+      "rotten_pct": 0.6
+    },
+    {
+      "assessment_id": "ONQ-2026-023",
+      "batch_id": "BATCH-DS-023",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\1. Single",
+      "filename": "Onion04042.jpg",
+      "quality_score": 89,
+      "grade": "GRADE A",
+      "healthy_pct": 85.0,
+      "rotten_pct": 2.0
+    },
+    {
+      "assessment_id": "ONQ-2026-024",
+      "batch_id": "BATCH-DS-024",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\1. Single",
+      "filename": "Onion04043.jpg",
+      "quality_score": 28,
+      "grade": "GRADE C",
+      "healthy_pct": 35.6,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-025",
+      "batch_id": "BATCH-DS-025",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion07041.jpg",
+      "quality_score": 27,
+      "grade": "GRADE C",
+      "healthy_pct": 35.6,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-026",
+      "batch_id": "BATCH-DS-026",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion07042.jpg",
+      "quality_score": 32,
+      "grade": "GRADE C",
+      "healthy_pct": 43.6,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-027",
+      "batch_id": "BATCH-DS-027",
+      "folder": "2. Bulb\\1. Healthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion07043.jpg",
+      "quality_score": 23,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 27.3,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-028",
+      "batch_id": "BATCH-DS-028",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\1. Single",
+      "filename": "Onion08151.jpg",
+      "quality_score": 94,
+      "grade": "GRADE A",
+      "healthy_pct": 90.1,
+      "rotten_pct": 0.6
+    },
+    {
+      "assessment_id": "ONQ-2026-029",
+      "batch_id": "BATCH-DS-029",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\1. Single",
+      "filename": "Onion08152.jpg",
+      "quality_score": 92,
+      "grade": "GRADE A",
+      "healthy_pct": 89.3,
+      "rotten_pct": 1.6
+    },
+    {
+      "assessment_id": "ONQ-2026-030",
+      "batch_id": "BATCH-DS-030",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\1. Single",
+      "filename": "Onion08153.jpg",
+      "quality_score": 20,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 22.4,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-031",
+      "batch_id": "BATCH-DS-031",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion11151.jpg",
+      "quality_score": 92,
+      "grade": "GRADE A",
+      "healthy_pct": 88.8,
+      "rotten_pct": 0.8
+    },
+    {
+      "assessment_id": "ONQ-2026-032",
+      "batch_id": "BATCH-DS-032",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion11152.jpg",
+      "quality_score": 0,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 5.0,
+      "rotten_pct": 65.0
+    },
+    {
+      "assessment_id": "ONQ-2026-033",
+      "batch_id": "BATCH-DS-033",
+      "folder": "2. Bulb\\1. Healthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion11153.jpg",
+      "quality_score": 0,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 25.6,
+      "rotten_pct": 45.8
+    },
+    {
+      "assessment_id": "ONQ-2026-034",
+      "batch_id": "BATCH-DS-034",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\1. Single",
+      "filename": "Onion12261.jpg",
+      "quality_score": 30,
+      "grade": "GRADE C",
+      "healthy_pct": 39.1,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-035",
+      "batch_id": "BATCH-DS-035",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\1. Single",
+      "filename": "Onion12262.jpg",
+      "quality_score": 30,
+      "grade": "GRADE C",
+      "healthy_pct": 40.6,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-036",
+      "batch_id": "BATCH-DS-036",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\1. Single",
+      "filename": "Onion12263.jpg",
+      "quality_score": 30,
+      "grade": "GRADE C",
+      "healthy_pct": 40.1,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-037",
+      "batch_id": "BATCH-DS-037",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion13271.jpg",
+      "quality_score": 28,
+      "grade": "GRADE C",
+      "healthy_pct": 37.1,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-038",
+      "batch_id": "BATCH-DS-038",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion13272.jpg",
+      "quality_score": 9,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 25.2,
+      "rotten_pct": 38.1
+    },
+    {
+      "assessment_id": "ONQ-2026-039",
+      "batch_id": "BATCH-DS-039",
+      "folder": "2. Bulb\\2. Unhealthy\\1. Red Onion\\2. Multiple",
+      "filename": "Onion13273.jpg",
+      "quality_score": 29,
+      "grade": "GRADE C",
+      "healthy_pct": 37.8,
+      "rotten_pct": 28.0
+    },
+    {
+      "assessment_id": "ONQ-2026-040",
+      "batch_id": "BATCH-DS-040",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\1. Single",
+      "filename": "Onion14281.jpg",
+      "quality_score": 4,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 19.0,
+      "rotten_pct": 39.5
+    },
+    {
+      "assessment_id": "ONQ-2026-041",
+      "batch_id": "BATCH-DS-041",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\1. Single",
+      "filename": "Onion14282.jpg",
+      "quality_score": 0,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 5.0,
+      "rotten_pct": 65.0
+    },
+    {
+      "assessment_id": "ONQ-2026-042",
+      "batch_id": "BATCH-DS-042",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\1. Single",
+      "filename": "Onion14283.jpg",
+      "quality_score": 11,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 27.2,
+      "rotten_pct": 37.4
+    },
+    {
+      "assessment_id": "ONQ-2026-043",
+      "batch_id": "BATCH-DS-043",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion15291.jpg",
+      "quality_score": 0,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 20.3,
+      "rotten_pct": 43.1
+    },
+    {
+      "assessment_id": "ONQ-2026-044",
+      "batch_id": "BATCH-DS-044",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion15292.jpg",
+      "quality_score": 2,
+      "grade": "REJECT / NON-COMPLIANT",
+      "healthy_pct": 25.6,
+      "rotten_pct": 44.2
+    },
+    {
+      "assessment_id": "ONQ-2026-045",
+      "batch_id": "BATCH-DS-045",
+      "folder": "2. Bulb\\2. Unhealthy\\2. White Onion\\2. Multiple",
+      "filename": "Onion15293.jpg",
+      "quality_score": 28,
+      "grade": "GRADE C",
+      "healthy_pct": 36.2,
+      "rotten_pct": 28.0
+    }
+  ],
+  "summary": {
+    "healthy_batches_avg_score": 91.9,
+    "unhealthy_batches_avg_score": 8.9,
+    "grade_a_count": 8,
+    "reject_count": 14
+  }
+}
